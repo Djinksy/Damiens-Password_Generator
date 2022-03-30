@@ -1,7 +1,7 @@
 # Damiens-Password_Generator
 
-Website: 
-ScreenShot:
+Website: https://djinksy.github.io/Damiens-Password_Generator/
+ScreenShot:![Password-Generator](./images/screenshot.png)
 
 
 Password Generator is a web application designed to randomize the user a password containing characters between 8-128 long.
